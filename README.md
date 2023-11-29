@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - [Kaggle](http://www.kaggle.com/michaelbryantds)
-- [Tableau Public](http://www.github.com/michaelalexanderbryant)
+- [Tableau Public](https://public.tableau.com/app/profile/michaelalexanderbryant/vizzes)
 - [LinkedIn](http://www.linkedin.com/in/MichaelAlexanderBryant)
