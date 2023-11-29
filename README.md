@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- [Kaggle](kaggle.com/michaelbryantds)
+- [Tableau Public](github.com/michaelalexanderbryant)
+- [LinkedIn](linkedin.com/in/MichaelAlexanderBryant)
