@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [Kaggle](kaggle.com/michaelbryantds)
-- [Tableau Public](github.com/michaelalexanderbryant)
-- [LinkedIn](linkedin.com/in/MichaelAlexanderBryant)
+- [Kaggle](http://www.kaggle.com/michaelbryantds)
+- [Tableau Public](http://www.github.com/michaelalexanderbryant)
+- [LinkedIn](http://www.linkedin.com/in/MichaelAlexanderBryant)
